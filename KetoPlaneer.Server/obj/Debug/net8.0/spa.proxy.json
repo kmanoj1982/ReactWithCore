@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:5173",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "D:\\Project\\asp_2023_24_int\\projects_not_asp.net__2023_2024\\net_core\\KetoPlaneer\\KetoPlaneer.Server\\..\\ketoplaneer.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

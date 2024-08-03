@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "TwlqI4JcUUiAZm890MyrfR1vuJTRz3eP0G5qM0+7aVk=",
+  "Source": "KetoPlaneer.Server",
+  "BasePath": "_content/KetoPlaneer.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "D:\\Project\\asp_2023_24_int\\projects_not_asp.net__2023_2024\\net_core\\KetoPlaneer\\ketoplaneer.client\\ketoplaneer.client.esproj",
+      "Version": 2,
+      "Source": "ketoplaneer.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

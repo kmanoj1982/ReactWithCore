@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "DPb6L1KO0Sk=",
+  "success": true,
+  "projectFilePath": "D:\\Project\\asp_2023_24_int\\projects_not_asp.net__2023_2024\\net_core\\KetoPlaneer\\KetoPlaneer.Server\\KetoPlaneer.Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\agile1\\.nuget\\packages\\microsoft.aspnetcore.spaproxy\\8.0.7\\microsoft.aspnetcore.spaproxy.8.0.7.nupkg.sha512",
+    "C:\\Users\\agile1\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\agile1\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\agile1\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\agile1\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\agile1\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\agile1\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
